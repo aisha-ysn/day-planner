@@ -1,2 +1,2 @@
-# work-planner
-Deployed site: https://aisha-ysn.github.io/work-planner/
+# day-planner
+Deployed site: https://aisha-ysn.github.io/day-planner/
